@@ -4,4 +4,33 @@
 }
 .header_Footer{
     width: 100%;
+    padding: 0.5rem;
+    text-align: center;
+}
+.tablaLogin{
+    border: 1px solid black;
+    width: 40%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.formLogin{
+    text-align: center;
+    padding: 3%;
+}
+.enlace{
+    text-decoration: none;
+    color: black;
+}
+.botonesLoginRegistro{
+    border: 1px solid black;
+    border-radius: 20px 20px 0px 0px;
+    padding: 3%;
+    color: white;
+    background-color: gray;
+    cursor: pointer;
+}
+.campo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
